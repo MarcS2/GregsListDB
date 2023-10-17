@@ -1,4 +1,3 @@
-
 {
   "folders": [
     {
@@ -54,6 +53,9 @@
       "titleBar.inactiveBackground": "#0ba73699",
       "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#0ba736"
+    "peacock.color": "#0ba736",
+    "cSpell.words": [
+      "virtuals"
+    ]
   }
 }
